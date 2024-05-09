@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="en">
-	<title>Koushik&#39;s Sec Blog</title>
+	<title>Koushik&#39;s Security Blog</title>
 	<subtitle>I am writing about my Security Expertise </subtitle>
 	<link href="https://seceveryday.github.io/myblog/feed/feed.xml" rel="self"/>
 	<link href="https://seceveryday.github.io/myblog/myblog/"/>

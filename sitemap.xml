@@ -27,42 +27,37 @@
 	</url>
 	
 	<url>
-		<loc>https://seceveryday.github.io/myblog/about/</loc>
-		<lastmod>2024-05-02</lastmod>
-	</url>
-	
-	<url>
 		<loc>https://seceveryday.github.io/myblog/blog/</loc>
-		<lastmod>2024-05-02</lastmod>
+		<lastmod>2024-05-09</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://seceveryday.github.io/myblog/</loc>
-		<lastmod>2024-05-02</lastmod>
+		<lastmod>2024-05-09</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://seceveryday.github.io/myblog/tags/</loc>
-		<lastmod>2024-05-02</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://seceveryday.github.io/myblog/tags/number-2/</loc>
-		<lastmod>2024-05-02</lastmod>
+		<lastmod>2024-05-09</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://seceveryday.github.io/myblog/tags/another-tag/</loc>
-		<lastmod>2024-05-02</lastmod>
+		<lastmod>2024-05-09</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://seceveryday.github.io/myblog/tags/number-2/</loc>
+		<lastmod>2024-05-09</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://seceveryday.github.io/myblog/tags/second-tag/</loc>
-		<lastmod>2024-05-02</lastmod>
+		<lastmod>2024-05-09</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://seceveryday.github.io/myblog/tags/posts-with-two-tags/</loc>
-		<lastmod>2024-05-02</lastmod>
+		<lastmod>2024-05-09</lastmod>
 	</url>
 </urlset>
