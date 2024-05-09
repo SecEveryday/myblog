@@ -1,10 +1,11 @@
 ---
 layout: layouts/home.njk
 eleventyNavigation:
-  key: Archive
+  key: "SecBits (Blog)"
   order: 2
 ---
-<h1>Archive</h1>
+<h1>Posts</h1>
 
 {% set postslist = collections.posts %}
+{% set postslistCounter = postslist | length %}
 {% include "postslist.njk" %}
